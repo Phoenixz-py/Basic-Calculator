@@ -12,3 +12,6 @@ In else I created 4 main functions of my program, I had to use ParseFloat to pri
 now call the function
 
 Guide me by your experience, how I can make it better. imma make it scientific calculator someday not today. OwO
+
+
+*npms are node pakage managers, cool stuff that works like magic when u add it to your jason file
